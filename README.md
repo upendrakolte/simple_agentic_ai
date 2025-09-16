@@ -55,7 +55,7 @@ This is **not production-ready** — it’s meant as a **learning and prototypin
 4. **Run the agent**
 
    ```bash
-   python simple_agentic_ai.py
+   python simple_agent.py
    ```
 
 ---
